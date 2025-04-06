@@ -111,4 +111,5 @@ API documentation will be available via Swagger UI at `/swagger-ui.html` when th
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is proprietary and confidential. All rights reserved. See the LICENSE file for details.
+This software is not open source and requires explicit permission for any use, modification, or distribution.
